@@ -30,7 +30,7 @@ This React application serves as the frontend for the Codeword Actions system, p
 - **User Input**: Allows users to input codewords and retrieve associated action IDs.
 - **Action ID Retrieval**: Enables users to input action IDs to fetch and display associated codewords.
 
-## Getting Started 📦
+## Getting Started
 Clone the repository and navigate to the frontend directory named codewords-frontend
 
 # Install Dependencies
