@@ -1,0 +1,38 @@
+{
+    "actions": [
+      {
+        "codeword": 5001,
+        "id": "alert"
+      },
+      {
+        "codeword": 5002,
+        "id": "thanks"
+      },
+      {
+        "codeword": 5003,
+        "id": "proceed"
+      },
+      {
+        "codeword": 5005,
+        "id": "stop"
+      },
+      {
+        "codeword": 5006,
+        "id": "proceed"
+      },
+      {
+        "codeword": 5007,
+        "id": "thanks"
+      },
+      {
+        "codeword": 5008,
+        "id": "proceed"
+      },
+      {
+        "codeword": 5009,
+        "id": "proceed"
+      }
+    
+    ]
+  }
+  
